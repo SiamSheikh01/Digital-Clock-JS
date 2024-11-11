@@ -1,0 +1,27 @@
+body{
+
+    background-color: #17D4FE;
+
+}
+
+
+.body {
+    background: black;
+    width: 685px;
+    height: 370px;
+    border-radius: 10%;
+    margin: auto;
+    margin-top: 255px;
+}
+
+.clock {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #17D4FE;
+    font-size: 60px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+    text-align: center;
+}
